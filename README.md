@@ -36,6 +36,16 @@
 
 ## [Seminar_2](https://github.com/Yana-Sushkova/Web_technologies_portfolio/tree/main/Seminar_2 "Задачи к Семинару 2")
 
+### Задача 3:
+1. На 2 стр добавить картинку товара и описание.
+2. Доделать кнопку home.
+3. Креатив приветствуется.
+```
+Пример:
+нет
+```
+>[Решение](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_2/Task_03 "Решение задачи 3")
+
 ***
 
 ## [Seminar_3](https://github.com/Yana-Sushkova/Web_technologies_portfolio/tree/main/Seminar_3 "Задачи к Семинару 3")
