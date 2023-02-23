@@ -57,7 +57,7 @@ Cоздать всплывающее диалоговое окно с произ
 Пример:
 
 ```
->[Решение](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_3/Task_03_1 "Решение задачи 3.1")
+>[Решение](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_3/Task_03_1/index.html "Решение задачи 3.1")
 
 ### Задача 3.2:
 Вычислить результат 158+2 и вывести значение выражения в диалоговое окно.  
@@ -65,7 +65,7 @@ Cоздать всплывающее диалоговое окно с произ
 Пример:
 
 ```
->[Решение](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_3/Task_03_2 "Решение задачи 3.2")
+>[Решение](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_3/Task_03_2/index.html "Решение задачи 3.2")
 
 ### Задача 3.3:
 Передать строковый параметр в диалоговое окно.
@@ -74,7 +74,7 @@ Cоздать всплывающее диалоговое окно с произ
 Пример:
 
 ```
->[Решение](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_3/Task_03_3 "Решение задачи 3.3")
+>[Решение](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_3/Task_03_3/index.html "Решение задачи 3.3")
 
 ### Задача 3.4:
 Вызвать диалоговое окно с заголовком "Как вас зовут?"
@@ -84,7 +84,7 @@ Cоздать всплывающее диалоговое окно с произ
 Пример:
 
 ```
->[Решение](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_3/Task_03_4 "Решение задачи 3.4")
+>[Решение](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_3/Task_03_4/index.html "Решение задачи 3.4")
 
 ### Задача 3.5:
 Написать функцию выводящую в диалоговом окне текст и переменную.
@@ -94,7 +94,7 @@ Cоздать всплывающее диалоговое окно с произ
 Пример:
 
 ```
->[Решение](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_3/Task_03_5 "Решение задачи 3.5")
+>[Решение](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_3/Task_03_5/index.html "Решение задачи 3.5")
 
 ### Задача 3.6:
 Вывести на экран в диалоговом окне текст с сообщением:
@@ -107,7 +107,7 @@ Cоздать всплывающее диалоговое окно с произ
 Пример:
 
 ```
->[Решение](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_3/Task_03_6 "Решение задачи 3.6")
+>[Решение](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_3/Task_03_6/index.html "Решение задачи 3.6")
 
 ### Задача 3.7:
 Перепешите код, используя конструкцию switch-case,
@@ -116,7 +116,7 @@ Cоздать всплывающее диалоговое окно с произ
 Пример:
 
 ```
->[Решение](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_3/Task_03_7 "Решение задачи 3.7")
+>[Решение](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_3/Task_03_7/index.html "Решение задачи 3.7")
 
 ### Задача 3.8:
 Создать страницу, которая спрашивает имя у пользователя
@@ -125,7 +125,7 @@ Cоздать всплывающее диалоговое окно с произ
 Пример:
 
 ```
->[Решение](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_3/Task_03_8 "Решение задачи 3.8")
+>[Решение](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_3/Task_03_8/index.html "Решение задачи 3.8")
 
 ***
 
