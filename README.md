@@ -64,8 +64,9 @@ Cоздать всплывающее диалоговое окно с произ
 Вычислить результат 158+2 и вывести значение выражения в диалоговое окно.  
 ```
 Пример:
-
 ```
+![Пример 3.2](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_3/examples_for_tasks/task_2.png) 
+
 >[Решение](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_3/Task_03_2/index.html "Решение задачи 3.2")
 
 ### Задача 3.3:
@@ -73,8 +74,9 @@ Cоздать всплывающее диалоговое окно с произ
 Например, вывести "Привет, Алевтина!", где имя - это передаваемы параметр.  
 ```
 Пример:
-
 ```
+![Пример 3.3](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_3/examples_for_tasks/task_3.png) 
+
 >[Решение](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_3/Task_03_3/index.html "Решение задачи 3.3")
 
 ### Задача 3.4:
@@ -83,8 +85,9 @@ Cоздать всплывающее диалоговое окно с произ
 А затем вывести имя, которое ввели в поле ввода.
 ```
 Пример:
-
 ```
+![Пример 3.4](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_3/examples_for_tasks/task_4.png)
+
 >[Решение](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_3/Task_03_4/index.html "Решение задачи 3.4")
 
 ### Задача 3.5:
@@ -93,8 +96,9 @@ Cоздать всплывающее диалоговое окно с произ
 Где имя "Алевтина" это внешняя переменная.
 ```
 Пример:
-
 ```
+![Пример 3.5](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_3/examples_for_tasks/task_5.png)
+
 >[Решение](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_3/Task_03_5/index.html "Решение задачи 3.5")
 
 ### Задача 3.6:
@@ -106,16 +110,34 @@ Cоздать всплывающее диалоговое окно с произ
 с ссобщением "Жаль,что что вы уверены...".
 ```
 Пример:
-
 ```
+![Пример 3.6](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_3/examples_for_tasks/task_6.png)
+
 >[Решение](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_3/Task_03_6/index.html "Решение задачи 3.6")
 
 ### Задача 3.7:
 Перепешите код, используя конструкцию switch-case,
 запрашивая возраст пользователя через диалоговое окно.
+    let age = parseInt(prompt("Введите возраст", ["Возраст"]));
+    if (age == 18) 
+    {
+      alert("Вы совершеннолетний, всё можно!");
+    } 
+    else if (age ==10) 
+    {
+      alert("Вам надо учить уроки!"); 
+    }
+    else if (age ==30) 
+    {
+      alert("Ложитесь спать, завтра на работу!"); 
+    }
+    else
+    {
+      alert("Мы не знаем, что вам делать."); 
+    }
 ```
 Пример:
-
+нет
 ```
 >[Решение](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_3/Task_03_7/index.html "Решение задачи 3.7")
 
@@ -124,8 +146,9 @@ Cоздать всплывающее диалоговое окно с произ
 и выводит его с помощью функции.
 ```
 Пример:
-
 ```
+![Пример 3.8](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_3/examples_for_tasks/task_8.png)
+
 >[Решение](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_3/Task_03_8/index.html "Решение задачи 3.8")
 
 ***
