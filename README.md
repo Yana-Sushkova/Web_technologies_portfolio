@@ -55,7 +55,7 @@ Cоздать всплывающее диалоговое окно с произ
 например, "Привет, мир!" с помощью JavaScript.  
 ```
 Пример:
-
+![Пример 3.1](https://github.com/Yana-Sushkova/Web_technologies_portfolio/tree/main/Seminar_3/examples_for_tasks/task_1.png) 
 ```
 >[Решение](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_3/Task_03_1/index.html "Решение задачи 3.1")
 
