@@ -56,7 +56,7 @@ Cоздать всплывающее диалоговое окно с произ
 ```
 Пример:
 ```
-![Пример 3.1](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_3/examples_for_tasks/task_1.png) 
+![Пример 3.1](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_3/examples_for_tasks/task_1.png | width = 100) 
 
 >[Решение](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_3/Task_03_1/index.html "Решение задачи 3.1")
 
@@ -65,7 +65,7 @@ Cоздать всплывающее диалоговое окно с произ
 ```
 Пример:
 ```
-![Пример 3.2](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_3/examples_for_tasks/task_2.png) 
+![Пример 3.2](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_3/examples_for_tasks/task_2.png ) 
 
 >[Решение](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_3/Task_03_2/index.html "Решение задачи 3.2")
 
