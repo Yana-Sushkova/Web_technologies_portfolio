@@ -190,7 +190,7 @@ https://www.w3schools.com/php/phptryit.asp?filename=tryphp_compiler
 https://www.w3schools.com/php/phptryit.asp?filename=tryphp_compiler
 
 #### Подзадача 4.2.3:  
-  В уже созданном html-шаблоне  в задании №2 добавьте строку: возраст.
+В уже созданном html-шаблоне в предыдущем задании добавьте строку: возраст.
 Выведите 2 значения переменных:
 - возраст в годах,
 - возраст в днях,
@@ -198,12 +198,20 @@ https://www.w3schools.com/php/phptryit.asp?filename=tryphp_compiler
 
 Для выполнения задания и демонстрации результата используйте онлайн-редактор
 https://www.w3schools.com/php/phptryit.asp?filename=tryphp_compiler
+
+#### Подзадача 4.2.4:  
+Cформируйте массив с данными для блока «Опыт работы».
+Вывести данные массива в HTML-шаблоне.
+
+Для выполнения задания и демонстрации результата используйте онлайн-редактор
+https://www.w3schools.com/php/phptryit.asp?filename=tryphp_compiler
+
 ```
 Примеры: 
 ```
 >[Примеры](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_4/Task_04_2/examples "Примеры к задачам 4.2")
 
->[Решение](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_4/Task_04_2/04_2.html "Решение задачи 4.2")
+>[Решение](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_4/Task_04_2 "Решение задачи 4.2")
 
 ### Задача 4.3.1-4.3.2:
 Задача 4.3.1: используя онлайн-редактор https://onecompiler.com/mysql создайте базу данных, состоящую из одной таблицы — информация об участниках группы. В таблице должно быть три столбца:
