@@ -157,6 +157,69 @@ Cоздать всплывающее диалоговое окно с произ
 
 ## [Seminar_4](https://github.com/Yana-Sushkova/Web_technologies_portfolio/tree/main/Seminar_4  "Задачи к Семинару 4")
 
+### Задача 4.1:
+Выведите на экран свое имя с помощью PHP в онлайн редакторе «Rextester» (https://rextester.com/l/php)
+```
+Пример:
+нет
+```
+>[Решение](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_4/Task_04_1/04_1.php "Решение задачи 4.1")
+
+### Задача 4.2:
+Состоит из 3-х подзадач:
+Подзадача 4.2.1:
+Скачайте html-документ (https://disk.yandex.ru/d/H9_wDMSChowFVg).
+В блоке контактной информации, вместо текста в строках:
+-имя,
+-профессия,
+-город/страна,
+-e-mail,
+-телефон
+-вставьте переменные (типа string, integer) и присвойте им любое значение.
+
+Для выполнения задания и демонстрации результата используйте онлайн-редактор
+https://www.w3schools.com/php/phptryit.asp?filename=tryphp_compiler
+
+Подзадача 4.2.2:
+Сформируйте массив с данными для блока «Навыки»:
+- навык и процент владения им.
+Вывести данные массива в html-шаблоне.
+
+Для выполнения задания и демонстрации результата используйте онлайн-редактор
+https://www.w3schools.com/php/phptryit.asp?filename=tryphp_compiler
+
+Подзадача 4.2.3:
+В уже созданном html-шаблоне  в задании №2 добавьте строку: возраст.
+Выведите 2 значения переменных:
+- возраст в годах,
+- возраст в днях,
+вычисленные при помощи арифметических операторов и выражений.
+
+Для выполнения задания и демонстрации результата используйте онлайн-редактор
+https://www.w3schools.com/php/phptryit.asp?filename=tryphp_compiler
+```
+Примеры: 
+```
+>[Примеры](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_4/Task_04_2/examples "Примеры к задачам 4.2")
+
+>[Решение](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_4/Task_04_2/04_2.html "Решение задачи 4.2")
+
+### Задача 4.3.1-4.3.2:
+Задача 4.3.1: используя онлайн-редактор https://onecompiler.com/mysql создайте базу данных, состоящую из одной таблицы — информация об участниках группы. В таблице должно быть три столбца:
+- id,
+- name,
+- age,
+выведите всех студентов, чей возраст больше 18.
+
+Задача 4.3.2: создать БД, состоящую из одной таблицы 
+(информация об одногруппниках) с четырьмя полями 
+(добавить поле «Адрес»): id, name, age, address.
+```
+Пример:
+```
+![Пример 4.3](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_4/Task_04_3/task_04_3.png)
+>[Решение](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_4/Task_04_3/04_3.txt "Решение задачи 4.3")
+
 ***
 
 ## [Seminar_5](https://github.com/Yana-Sushkova/Web_technologies_portfolio/tree/main/Seminar_5  "Задачи к Семинару 5")
