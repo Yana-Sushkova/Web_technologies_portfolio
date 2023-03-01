@@ -226,7 +226,7 @@ https://www.w3schools.com/php/phptryit.asp?filename=tryphp_compiler
 ```
 Пример:
 ```
-![Пример 4.3](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_4/Task_04_3/s4_3.png)
+![Пример 4.3](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_4/Task_04_3/example/s4_3.png)
 >[Решение](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_4/Task_04_3 "Решение задачи 4.3")
 
 ***
