@@ -213,7 +213,7 @@ https://www.w3schools.com/php/phptryit.asp?filename=tryphp_compiler
 
 >[Решение](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_4/Task_04_2 "Решение задачи 4.2")
 
-### Задача 4.3.1-4.3.2:
+### Задачи 4.3.1-4.3.2:
 Задача 4.3.1: используя онлайн-редактор https://onecompiler.com/mysql создайте базу данных, состоящую из одной таблицы — информация об участниках группы. В таблице должно быть три столбца:
 - id,
 - name,
@@ -226,8 +226,8 @@ https://www.w3schools.com/php/phptryit.asp?filename=tryphp_compiler
 ```
 Пример:
 ```
-![Пример 4.3](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_4/Task_04_3/task_04_3.png)
->[Решение](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_4/Task_04_3/04_3.txt "Решение задачи 4.3")
+![Пример 4.3](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_4/Task_04_3/s4_3.png)
+>[Решение](https://github.com/Yana-Sushkova/Web_technologies_portfolio/blob/main/Seminar_4/Task_04_3 "Решение задачи 4.3")
 
 ***
 
